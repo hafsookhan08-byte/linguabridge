@@ -25,7 +25,7 @@ practice without paying for expensive coaching every session.
 
 ## b. Live app
 
-🔗 **[PASTE YOUR LIVE STREAMLIT URL HERE]**
+🔗 **[https://linguabridge-wumrqqen234k8k3myku6su.streamlit.app/](https://linguabridge-wumrqqen234k8k3myku6su.streamlit.app/)**
 
 ## c. Features
 
@@ -95,17 +95,17 @@ cards and saved to the progress tracker — not just dumped as raw chat text.
   system prompt design
 
 ## f. Screenshots
+![Home page](screenshots/home.png)
+![Reading practice](screenshots/reading.png)
+![Listening practice](screenshots/listening.png)
+![Language Coach](screenshots/language.png)
 
-<!-- Add at least 3 screenshots below. Example: -->
-<!-- ![Home page](screenshots/home.png) -->
-<!-- ![Speaking interview](screenshots/speaking.png) -->
-<!-- ![Progress tracker](screenshots/progress.png) -->
 
 ## g. How to run this project locally
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/linguabridge.git
+   git clone https://github.com/hafsookhan08-byte/linguabridge.git
    cd linguabridge
    ```
 
@@ -124,7 +124,7 @@ cards and saved to the progress tracker — not just dumped as raw chat text.
 
 4. **Run the app**
    ```bash
-   streamlit run Home.py
+   streamlit run app.py
    ```
 
 5. Open the local URL Streamlit gives you (usually `http://localhost:8501`).
